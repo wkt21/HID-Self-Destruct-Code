@@ -1,5 +1,7 @@
 # HID-Self-Destruct-Code
 ---
+# EDUCATIONAL PURPOSES ONLY
+---
 HID Self Destruct 
 badhid_arduino.ino) is what works as true plug-and-play BadUSB—it runs on the Arduino hardware itself, no compilation needed after upload.
 
